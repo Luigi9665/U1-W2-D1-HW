@@ -26,7 +26,7 @@ null: una variabile alla quale non è stato inserito alcun valore di proposito.`
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 const myName = "Luigi";
-console.log("Il mio nome è: " + myName);
+console.log("Il mio nome è: ", myName);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -34,7 +34,7 @@ console.log("Il mio nome è: " + myName);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let somma = 12 + 20;
-console.log("Somma tra 12 + 20= " + somma);
+console.log("Somma tra 12 + 20= ", somma);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
